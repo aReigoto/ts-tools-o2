@@ -10,3 +10,5 @@
  "double"
  "string"
 ] @type)
+
+(number @number)
