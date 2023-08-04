@@ -4,10 +4,9 @@
 ((comment_c) @comment.documentation
   (#lua-match? @comment.documentation "^/[*][*][^*].*[*]/$"))
 
-; Conditionals
+; 
+( primitive_type
 [
- "if"
- "else"
- "case"
- "switch"
-] @conditional
+ "double"
+ "string"
+] @keyword)
