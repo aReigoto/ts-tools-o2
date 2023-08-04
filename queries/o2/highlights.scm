@@ -11,4 +11,4 @@
  "string"
 ] @type)
 
-(number @number)
+(number_literal) @number
