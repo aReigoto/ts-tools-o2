@@ -3,3 +3,11 @@
 
 ((comment_c) @comment.documentation
   (#lua-match? @comment.documentation "^/[*][*][^*].*[*]/$"))
+
+; Conditionals
+[
+ "if"
+ "else"
+ "case"
+ "switch"
+] @conditional
