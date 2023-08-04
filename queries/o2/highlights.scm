@@ -5,8 +5,8 @@
   (#lua-match? @comment.documentation "^/[*][*][^*].*[*]/$"))
 
 ; 
-( primitive_type
+(primitive_type
 [
  "double"
  "string"
-] @keyword)
+] @type)
