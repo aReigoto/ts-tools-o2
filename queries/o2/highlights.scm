@@ -13,3 +13,5 @@
 (number_literal) @number
 
 (string_literal) @string
+
+(include "include") @include
