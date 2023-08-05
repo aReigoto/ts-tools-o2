@@ -14,4 +14,4 @@
 
 (string_literal) @string
 
-(include "include") @include
+"include" @include
