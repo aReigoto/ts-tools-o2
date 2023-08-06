@@ -16,10 +16,10 @@
 
 (string_literal) @string
 
-(include "include") @include
+(include_statment "include") @include
 ; "include" @include
 
-(for_stamente
+(for_statement
 [
  "for"
  "to"
