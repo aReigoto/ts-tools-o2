@@ -24,6 +24,7 @@
  "for"
  "to"
  "do"
- "end for"
+ "end"
+ "for"
  ]
  @repeat)
