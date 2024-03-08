@@ -1,4 +1,4 @@
-#| Block comment
+| Block comment
 
 ; C like comments
 (comment_c) @comment @spell
@@ -31,5 +31,5 @@
  ]
  @repeat)
  
-|#
+|
 
